@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and potentially sensitive input data
+*.log
+*.log.*
+data/private/
+data/raw/
+data/real/
+
+# Generated reports and exports
+reports/*
+!reports/.gitkeep
+
+# Streamlit
+.streamlit/secrets.toml

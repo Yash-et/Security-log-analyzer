@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=75.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "security-log-analyzer"
+version = "0.1.0"
+description = "A local defensive security log analysis and alerting dashboard."
+readme = "README.md"
+requires-python = ">=3.13,<3.14"
+license = "MIT"
+dependencies = [
+    "streamlit>=1.40,<2.0",
+    "pandas>=2.2,<4.0",
+    "plotly>=5.24,<7.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3,<10.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra"
