@@ -228,15 +228,15 @@ Potential future improvements include:
 
 ## Dashboard Preview
 
-![Security Log Analyzer dashboard](docs/screenshots/dashboard.png)
+![Security Log Analyzer dashboard](docs\dashboard.png)
 
 ### Event Exploration
 
-![Event filtering and search](docs/screenshots/events.png)
+![Event filtering and search](docs\events.png)
 
 ### Alert Investigation
 
-![Security alerts and supporting evidence](docs/screenshots/alerts.png)
+![Security alerts and supporting evidence](docs\alerts.png)
 
 ## License
 
