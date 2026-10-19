@@ -226,6 +226,18 @@ Potential future improvements include:
 - Additional edge-case and integration tests.
 - Optional persistent storage for historical analysis.
 
+## Dashboard Preview
+
+![Security Log Analyzer dashboard](docs/screenshots/dashboard.png)
+
+### Event Exploration
+
+![Event filtering and search](docs/screenshots/events.png)
+
+### Alert Investigation
+
+![Security alerts and supporting evidence](docs/screenshots/alerts.png)
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
