@@ -228,15 +228,18 @@ Potential future improvements include:
 
 ## Dashboard Preview
 
-![Security Log Analyzer dashboard](docs\dashboard.png)
+<img width="1917" height="1020" alt="dashboard" src="https://github.com/user-attachments/assets/f85a9e32-f522-44d9-8af9-899ba75b8ca2" />
+<h3 align="center">Security Log Analyzer dashboard</h3>
 
 ### Event Exploration
 
-![Event filtering and search](docs\events.png)
+<img width="1917" height="1015" alt="events" src="https://github.com/user-attachments/assets/717a0650-8ea5-42b5-a5f1-b86c3a397b87" />
+<h3 align="center">Event filtering and search</h3>
 
 ### Alert Investigation
 
-![Security alerts and supporting evidence](docs\alerts.png)
+<img width="1917" height="1017" alt="alerts" src="https://github.com/user-attachments/assets/83a63f53-909c-4c83-b82f-417be429942d" />
+<h3 align="center">Security alerts and supporting evidence</h3>
 
 ## License
 
