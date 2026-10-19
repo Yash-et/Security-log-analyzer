@@ -1,0 +1,10 @@
+{"timestamp":"2026-10-18T09:02:00Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 1","source_type":"application"}
+{"timestamp":"2026-10-18T09:02:10Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 2","source_type":"application"}
+{"timestamp":"2026-10-18T09:02:20Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 3","source_type":"application"}
+{"timestamp":"2026-10-18T09:02:30Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 4","source_type":"application"}
+{"timestamp":"2026-10-18T09:02:40Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 5","source_type":"application"}
+{"timestamp":"2026-10-18T09:02:50Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 6","source_type":"application"}
+{"timestamp":"2026-10-18T09:03:00Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 7","source_type":"application"}
+{"timestamp":"2026-10-18T09:03:10Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 8","source_type":"application"}
+{"timestamp":"2026-10-18T09:03:20Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 9","source_type":"application"}
+{"timestamp":"2026-10-18T09:03:30Z","severity":"ERROR","event_type":"APPLICATION_ERROR","source_ip":null,"message":"Database timeout during synthetic request 10","source_type":"application"}
