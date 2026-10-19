@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-18T09:00:00Z","source_type":"authentication","severity":"WARNING","event_type":"AUTH_FAILURE","source_ip":"192.0.2.10","message":"Failed password for invalid user admin"}
+{"timestamp":"2026-10-18T09:01:00Z","source_type":"authentication","severity":"INFO","event_type":"AUTH_SUCCESS","source_ip":"192.0.2.20","message":"Accepted publickey for demo"}
+{"timestamp":"2026-10-18T09:02:00Z","source_type":"application","severity":"ERROR","message":"Application error while processing synthetic request"}
+not valid json
+{"timestamp":"2026-10-18T09:03:00Z","source_type":"system","severity":"INFO","message":"Synthetic system service started"}
